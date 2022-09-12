@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @balaji-g42
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on My Project
+- 🌱 I’m currently learning Flutter and Python
 - 📫 How to reach me balaji@omnicuris.com
 
 <!---
